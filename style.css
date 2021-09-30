@@ -1,0 +1,21 @@
+body{
+	text-align: center;
+	margin: 0;
+	padding: 1rem;
+	box-sizing: border-box;
+	height: 100vh;
+	background-color: rgb(29, 35, 51);
+	color: white;
+}
+label{
+	display:block;
+	
+	padding-bottom: 1rem;
+}
+.container {
+	width: 90%;
+	margin: auto;
+}
+#output-box{
+	margin-top: 2rem;
+}
